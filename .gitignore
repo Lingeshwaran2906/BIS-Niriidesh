@@ -1,0 +1,14 @@
+.env
+backend/.env
+backend/.venv/
+__pycache__/
+*.py[cod]
+data_text/
+data/users.db
+node_modules/
+frontend/node_modules/
+frontend/dist/
+.venv/
+
+backend/api_keys.json
+backend/api_keys.json.tmp
